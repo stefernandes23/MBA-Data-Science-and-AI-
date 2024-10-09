@@ -42,6 +42,6 @@ Feel free to explore the projects, raise issues, or suggest improvements! New id
 
 ## 📫 Contact
 
-You can find me at:
+You can find us at:
 - [LinkedIn](https://www.linkedin.com/in/stephaniefernandes23/)
 - [Email](stephaniefernandes23@gmail.com)
