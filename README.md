@@ -1,9 +1,9 @@
 # 🎓 MBA - Data Science and Artificial Intelligence
 
-This repository contains projects and activities developed during my **MBA in Data Science and Artificial Intelligence**. It serves as a personal reference and a way to share knowledge with the community. Throughout the course, I explored various areas of Data Science, Machine Learning, and AI, ranging from business strategies to advanced data modeling and machine learning techniques.
+This repository contains projects and activities that were developed and is developing too during the **MBA in Data Science and Artificial Intelligence**. It serves as a personal reference and a way to share knowledge with the community. Throughout the course, we explored various areas of Data Science, Machine Learning, and AI, ranging from business strategies to advanced data modeling and machine learning techniques.
 
-## 🛠️ **Skills & Tools Gained**
-During the MBA, I developed a broad range of skills across multiple domains of data science and AI:
+## 🛠️ **Skills & Tools**
+During the MBA, we are developing a broad range of skills across multiple domains of data science and AI:
 
 - **Machine Learning & Deep Learning**: Building predictive models, applying generative AI techniques to address real-world business challenges.
 - **Hypothesis Testing, Regression & Clustering**: Using statistical models to infer relationships in data and make informed business decisions.
